@@ -13,6 +13,9 @@
     "vite": "^6.3.5"
   },
   "dependencies": {
+    "@editorjs/editorjs": "^2.30.8",
+    "@tiptap/core": "^2.12.0",
+    "@tiptap/starter-kit": "^2.12.0",
     "konva": "^9.3.20"
   }
 }
